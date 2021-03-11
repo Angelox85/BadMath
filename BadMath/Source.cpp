@@ -19,7 +19,7 @@ int main()
 
 	cout << setprecision(1) << fixed << "The average is " << a << endl;
 
-	
+	system("pause");
 
 	return 0;
 }
